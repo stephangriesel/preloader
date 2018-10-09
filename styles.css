@@ -15,3 +15,12 @@ html, body {
     overflow:visible;
     background:#000010 url('ani3.gif') no-repeat center center;
 }
+
+h1 {
+    position: absolute;
+    top:42%;
+    left:50%;
+    transform: translate(-50%, -50%);
+    color:#FFFFFF;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
